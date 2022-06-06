@@ -11,11 +11,11 @@
 Before and after
 - **How is the school summary affected?**
 
-![Outcomes_Based_on_Launch_Date]()
+![Original_District_Summary](https://github.com/Connectime4ever/School_District_Analysis/blob/main/Resources/Original%20District%20Summary.png)
 
-- **How does replacing the nigth grader's math and reading scores affect Thomas High School's performancee relative to the other schools**
+* **How does replacing the nigth grader's math and reading scores affect Thomas High School's performancee relative to the other schools**
 (Please see "Sheet Notes" in Kickstater Challenge for reference) ()
-- **How does replacing the ninth-grade scores affect the following:**
+* **How does replacing the ninth-grade scores affect the following:**
 
     - **Math and Reading scores by grade**
     - **Scores by school spending**
@@ -24,10 +24,10 @@ Before and after
 
 ## Summary
 four changest in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-- Change 1
-- Change 2
-- Change 3
-- Change 4
+* Change 1
+* Change 2
+* Change 3
+* Change 4
 
 ![Statistics_of_ Successful_Plays_Goals]()
 
