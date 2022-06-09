@@ -3,25 +3,20 @@
 ## Overview of the school district analysis:
 
 #### The school district encountered evidences of academic dishonesty in the scores of Reading and Math tests of the nine graders from Thomas High School. 
-#### In this sense, it was requested the altered scores to be replaced and to perform a revised school district analysis.  Additionally, some insights about how these changes impacted the original overall analysis has been requested as well.
+#### In this sense, it was requested the altered scores to be replaced by Nan and to perform a revised school district analysis.  Additionally, some insights about how these changes impacted the original overall analysis has been also requested.
 
 ---
 
 ## Results
-
-+ The revised District Summary shows a slight different vs. the former one. The changes performed in the 9th grader Math and Reading scores did not have a noticeble impact on this report. Please find below the above mentioned reports as reference. 
-
-+ The revised School Summary substantially differs from the original report as a result of Thomas High Schools 9th graders' scores replaced by NaN.   
-    + Thomas High School shows a relevant improvement in its Math, Reading and Overall Passing Percentage.
-    + The school also improved its position compared to other schools, ranking in the top place. All in all showing a relatively "better" performance.  
-    -
-+ On the other hand the replacement of the ninth-grade scores of Thomas High School seems to have no dramatic impact on the Math and Reading scores by grade
-
-
-    - **Math and Reading scores by grade**
-    - **Scores by school spending**
-    - **Scores by school size**
-    - **Scores by school type**
++ The changes performed in the 9th grader Math and Reading scores did not have a noticeable impact on the District Report. 
++ The revised School Summary shows very slight differences.  All the metric went down except the average reading score that went up (*from 83.849 to 83.896*) 
+    + Despite the change made Thomas High School continues to be ranking withing the top 5 performing schools in the district.
++ The Math and Reading scores by grades in Thomas High School seems to have no impact on the Math and Reading scores by grade
++ There is no substantial impact in the following metrics.
+    - Math and Reading scores by grade**
+    - Scores by school spending**
+    - Scores by school size**
+    - Scores by school type**
 
 ### District Summary 
 
@@ -55,9 +50,9 @@
 
 ## Summary
 All in all, some of the main changes in the in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-
-* The ranking of the schools in the District change 
-
-* Thomas High School 
-* Change 3
-* Change 4
+* Thomas High School does not show any grade in Reading and Math for the 9th graders.
+* The analysis of Thomas High School performance is somehow not comparable with the rest of the schools of the districts: 
+          + Due to the academic dishonesty, the base of comparison is qualitative different to the other schools in the district as only take into account the performance of the students in grades 10th to 11th.
+        + There is no information to assess the real performance of the 9th graders at Thomas School. 
+* The School Summary Report slightly change some of the metrics. 
+* Thomas High School is showing a relatively "better" performance.  
